@@ -1,0 +1,1 @@
+influx delete --org icsd --bucket glucose_bucket --token JZ7tQrmEJaY7oISyoZ3e4_iUU7N6Uiz0wvbBe9iTqpqYp18Q4W0N8VK56cUBi8fX-1Uhk1PJZa_9P6QjzBtzIg== --start '1970-01-01T00:00:00.00Z' --stop '2023-01-01T00:00:00.00Z'
